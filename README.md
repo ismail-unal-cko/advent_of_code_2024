@@ -9,3 +9,7 @@ Execute on local with interactive elixir
 >iex> input = File.read!("day1/input.txt")
 
 >iex> Day1.run(input)
+
+
+Day3:
+elixir day3.exs
